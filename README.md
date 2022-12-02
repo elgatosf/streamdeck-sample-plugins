@@ -1,2 +1,3 @@
-# streamdeck-sample-plugins
-Collection of Sample Plugins for Stream Deck
+# Stream Deck Sample Plugins
+
+A collection of sample plugins for Stream Deck.
