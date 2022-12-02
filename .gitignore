@@ -1,1 +1,3 @@
 __exclude
+.DS_Store
+.history
