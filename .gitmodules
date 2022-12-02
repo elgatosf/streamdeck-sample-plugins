@@ -1,3 +1,0 @@
-[submodule "sample-clock-plugin/src/com.elgato.sample-clock-plugin.sdPlugin/libs"]
-	path = sample-clock-plugin/src/com.elgato.sample-clock-plugin.sdPlugin/libs
-	url = https://tiptronic@github.com/elgatosf/streamdeck-javascript-sdk.git
